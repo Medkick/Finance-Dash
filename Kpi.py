@@ -5,6 +5,7 @@
 
 
 import pandas as pd
+pip install openpyxl
 #pip install plotly_express==0.4.0 
 import plotly.express as px
 import streamlit as st
