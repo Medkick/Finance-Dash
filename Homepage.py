@@ -6,7 +6,7 @@ st.set_page_config(
 )
 
 
-st.title("Financial Dashboards")
+st.title("Dashboards")
 image_path = "medkicklogo.png"
 st.image(image_path, caption="", use_column_width=True)
 st.sidebar.success("Select a page above.")
